@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: text-summarizer
+Version: 0.0.0
+Summary: a small python package for NLP app Text Summarizer
+Home-page: https://github.com/jaikushwaha7/text-summarizer
+Author: jaikushwaha7
+Author-email: jaikushwaha7@gmail.com
+Project-URL: Bug Tracker, https://github.com/jaikushwaha7/text-summarizer/issues
+Description-Content-Type: text/markdown
+
+## text summarizer
